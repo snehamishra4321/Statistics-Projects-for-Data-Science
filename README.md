@@ -1,4 +1,4 @@
-## Contributions-to-STAT-650 (Statistics for Data Science: TAMU)
+## Contributions-to-STAT-650 (Statistics for Data Science)
 #### This repository consists of all the coding files for assignments, projects based on the following topics:<br>
 Discrete and continuous random variables. <br>
 Conditional probability.<br>
